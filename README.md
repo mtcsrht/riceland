@@ -1,1 +1,1 @@
-# riceland
+# Riceland website project
