@@ -63,7 +63,7 @@ main h1{
     color: darkgreen;
 }
 .section{
-    margin-top: 30px;
+    margin-top: 25px;
     clear:both;
 }
 .section h3{
@@ -85,4 +85,19 @@ a{
 .img-right{
     float: right;
     margin-left: 10px
+}
+
+footer{
+    margin: auto;
+}
+footer
+footer ul{
+    list-style-type: none;
+    
+
+}
+footer li{
+    float: right;
+    display: inline
+    
 }
